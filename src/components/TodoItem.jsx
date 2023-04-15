@@ -35,6 +35,7 @@ const TodoItem = ({ todo }) => {
           onChange={handleToggleTodo}
           className="todoInput"
         />
+        <span className="todoSpan">{todo.date}</span>
       </div>
 
       <div>

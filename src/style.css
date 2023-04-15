@@ -47,3 +47,11 @@
 .todoCheck {
   border: 1px solid lightgreen;
 }
+
+.select {
+  margin-top: 15px;
+}
+
+.todoSpan {
+  font-size: x-small;
+}
