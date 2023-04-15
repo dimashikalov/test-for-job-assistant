@@ -55,3 +55,9 @@
 .todoSpan {
   font-size: x-small;
 }
+
+.searchInput {
+  margin-top: 25px;
+  width: 200px;
+  padding: 3px;
+}
